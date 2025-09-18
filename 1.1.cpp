@@ -1,4 +1,5 @@
-﻿int main(void)
+//1.1+1.2
+int main(void)
 {
 	int temp, max = 0, min = 1000;
 	int a[10];
@@ -16,3 +17,4 @@
 	temp = max - min;
 	printf("max-min = %d", temp);
 }
+
